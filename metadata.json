@@ -1,0 +1,6 @@
+{
+  "name": "AZMORA Clean Care",
+  "description": "Premium cybernetic Android optimizer featuring pure square HUD modules, RAM governor, fast charging booster, battery thermal cooler, and deep cache cleaner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
